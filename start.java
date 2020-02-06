@@ -10,6 +10,10 @@
 // adding new class
 class testblbla{
 	
+	// adding method
+	public void testMethod(){
+	}
+
 }
 =======
 // the second commit
